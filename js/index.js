@@ -20,13 +20,13 @@ function fillTemplate() {
   $("#smallName").text(profile.name);
   $("#name")
     .find(".first")
-    .text(profile.name.split(" ")[0]);
+    .text(profile.name.split(" ")[0] + ' ' + profile.name.split(" ")[1]);
   $("#name")
     .find(".second")
     .text(
       profile.name
         .split(" ")
-        .slice(1)
+        .slice(2)
         .join(" ")
     );
   document.getElementById("location").innerHTML = profile.location;
