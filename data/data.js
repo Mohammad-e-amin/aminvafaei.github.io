@@ -30,7 +30,7 @@ let profile = {
     linkedin: "https://www.linkedin.com/in/mohammad-amin-vafaei-3a95b0147",
     twitter: "https://twitter.com/Mohammad_e_Amin",
     github: "https://github.com/Mohammad-e-amin",
-    // stackoverflow: "https://stackoverflow.com/users/8700961/guim-gonzalez",
+    stackoverflow: "https://stackoverflow.com/users/7088841/mohammad-amin",
   },
   experience: [
     {
