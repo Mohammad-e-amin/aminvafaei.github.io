@@ -158,7 +158,7 @@ function colorTheme() {
             scrollTop: target.offset().top
           },
           1000,
-          "easeInOutExpo"
+          "swing"
         );
         return false;
       }
