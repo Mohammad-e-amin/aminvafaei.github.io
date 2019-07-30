@@ -20,6 +20,7 @@ let profile = {
     "Go Lang",
     "BeeGo",
     "Restful Api",
+    "gRPC",
     "Web Socket",
     "Feathers Js",
     "Linux",
