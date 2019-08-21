@@ -38,6 +38,7 @@ let profile = {
     twitter: "https://twitter.com/Mohammad_e_Amin",
     github: "https://github.com/mavafaei",
     stackoverflow: "https://stackoverflow.com/users/7088841/mohammad-amin",
+    blog: "https://virgool.io/@aminvafaei13"
   },
   experience: [
     {

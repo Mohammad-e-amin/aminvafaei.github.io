@@ -60,7 +60,7 @@ function fillTemplate() {
   document
     .getElementById("stackoverflow")
     .setAttribute("href", profile.social.stackoverflow);
-  // document.getElementById("dev").setAttribute("href", profile.social.dev);
+  document.getElementById("blog").setAttribute("href", profile.social.blog);
   document.getElementById("bio-text").innerHTML = profile.bio;
   // Experience
   for (var i = 0; i < profile.experience.length; i++) {
