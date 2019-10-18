@@ -4,7 +4,7 @@ let profile = {
   // picture: "/img/me.jpg",
   name: "Mohammad Amin Vafaei",
   description:
-    "I'm a Backend developer primarily working with NodeJs, Python and NoSQL Databases.",
+    "I'm a Backend developer primarily working with NodeJs and NoSQL Databases.",
   bio:
     "I've been programming for 6 years.i'm a Back-end  developer with experience creating, maintaining and implementing everything from databases to web pages. I nerd out when learning new programming languages functionality feels giddy when finding /destroying bugs. I like to face new challenges in every field in my  career and I'm not afraid of them.",
   email: "aminvafaei13@gmail.com",
@@ -18,8 +18,6 @@ let profile = {
     "Koa 2",
     "Adonis Js",
     "Feathers Js",
-    "Python",
-    "Django",
     "DRF",
     "PHP",
     "Laravel",
