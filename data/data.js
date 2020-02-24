@@ -15,7 +15,7 @@ const profile = {
 
     'Node.Js',
     'Express Js',
-    'Koa 2',
+    'Koa Js',
     'Adonis Js',
     'Feathers Js',
     'PHP',
@@ -53,24 +53,14 @@ const profile = {
       to: 'Oct 2017'
     },
     {
-      title: 'Full Stack Developer',
-      company: 'Yaico',
-      url: 'http://www.kbkco.net',
-      location: 'Tehran, Iran',
-      description:
-        'Implementation KALARESAN web application (for transfer packages between Iran cities) with laravel and vue js',
-      from: 'Dec 2017',
-      to: 'Apr 2018'
-    },
-    {
       title: 'Backend Developer ',
       company: 'Media Hamrah Ertebatat',
       url: '',
       location: 'Tehran, Iran',
       description:
         'Implementation notification panel for MCI with nodeJS,laravel,mongodb.',
-      from: 'Apr 2018',
-      to: 'Dec 2018'
+      from: 'Sep 2017',
+      to: 'Jan 2019'
     },
     {
       title: 'Backend Developer ',
@@ -79,8 +69,8 @@ const profile = {
       location: 'Tehran, Iran',
       description:
         '',
-      from: 'Dec 2018',
-      to: 'Nov 2019'
+      from: 'Jan 2019',
+      to: 'Dec 2019'
     },
     {
       title: 'Backend and Blockchain Developer ',
@@ -89,7 +79,7 @@ const profile = {
       location: 'Tehran, Iran',
       description:
         'Design and implement blockchain based service for iran banking network.',
-      from: 'Nov 2019',
+      from: 'Dec 2019',
       to: 'Present'
     }
 
