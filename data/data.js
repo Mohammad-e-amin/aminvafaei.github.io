@@ -23,7 +23,6 @@ const profile = {
     'Hyperledger Fabric',
     'Restful API',
     'MicroService',
-    'gRPC',
     'Web Socket',
     'Linux',
     'Mysql',
