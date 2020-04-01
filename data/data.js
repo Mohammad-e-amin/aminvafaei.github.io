@@ -80,6 +80,26 @@ const profile = {
         'Design and implement blockchain based service for iran banking network.',
       from: 'Dec 2019',
       to: 'Present'
+    },
+    {
+      title: 'Backend Developer ',
+      company: 'Mortext',
+      url: '',
+      location: 'Turkey, Istanbul',
+      description:
+        'Design and implement backend of Mortext Application',
+      from: 'Dec 2019',
+      to: 'Present'
+    },
+    {
+      title: 'Backend Developer',
+      company: 'Cosmopolis',
+      url: '',
+      location: 'Paris, France',
+      description:
+        'Remote backend developer',
+      from: 'Jan 2020',
+      to: 'Present'
     }
 
   ],
