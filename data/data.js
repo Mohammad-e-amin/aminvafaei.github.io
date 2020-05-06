@@ -18,6 +18,9 @@ const profile = {
     'Adonis Js',
     'PHP',
     'Laravel',
+    'python',
+    'Django',
+    'DRF',
     'Hyperledger Fabric',
     'Restful API',
     'MicroService',
@@ -54,7 +57,7 @@ const profile = {
     {
       title: 'Backend Developer ',
       company: 'Media Hamrah Ertebatat',
-      url: '',
+      url: 'http://www.mediahamrah.com/',
       location: 'Tehran, Iran',
       description:
         'Implementation notification panel for MCI with nodeJS,laravel,mongodb.',
@@ -67,14 +70,14 @@ const profile = {
       url: 'http://www.app-tech.ir',
       location: 'Tehran, Iran',
       description:
-        '',
+        'Backend developer',
       from: 'Jan 2019',
       to: 'Dec 2019'
     },
     {
       title: 'Backend and Blockchain Developer ',
       company: 'Ariatak',
-      url: '',
+      url: 'http://areatak.com/',
       location: 'Tehran, Iran',
       description:
         'Design and implement blockchain based service for iran banking network.',
@@ -84,12 +87,12 @@ const profile = {
     {
       title: 'Backend Developer ',
       company: 'Mortext',
-      url: '',
+      url: 'https://mor-text.com/',
       location: 'Turkey, Istanbul',
       description:
-        'Design and implement backend of Mortext Application',
-      from: 'Dec 2019',
-      to: 'Present'
+        'Backend developer on my own Startup, Design and implement backend of Mortext Application',
+      from: 'Dec 2018',
+      to: 'Dec 2019'
     },
     {
       title: 'Backend Developer',
