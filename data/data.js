@@ -47,22 +47,38 @@ const profile = {
     {
       title: 'Full Stack Developer',
       company: 'Mashhad Electric Energy Distribution Co.',
-      url: 'http://portal.meedc.net/',
+      url: 'https://www.meedc.ir',
       location: 'Mashhad, Iran',
       description:
-        'Implementation enterprise integration portal (eip) with php and angular v 1.5',
+        `
+        - Collaboration in development and implementation of Enterprise Integration Portal (EIP) <br/>
+        - Developing a custom framework based on Opencart in php <br/> 
+        - Design and implement an intra-organizational chat system with Node.js and MongoDB <br/>
+        - Implement an employee management system with own Php framework and Angular v1.5 <br/>
+        - Collaboration in development of a secure download/upload manager for critical documents<br/>
+        `,
       from: 'Jun 2014',
-      to: 'Oct 2017'
+      to: 'Oct 2017',
+      stacks: 'PHP, NodeJs, MongoDB, Postgres, Angular, SVN'
     },
     {
       title: 'Backend Developer ',
       company: 'Media Hamrah Ertebatat',
-      url: 'http://www.mediahamrah.com/',
+      url: 'http://www.mediahamrah.com',
       location: 'Tehran, Iran',
       description:
-        'Implementation notification panel for MCI with nodeJS,laravel,mongodb.',
+        `
+        - Collaboration in development and implementation of MCI value added service(VAS) system <br/>
+        - Manage5 other Backend and Frontend Developer in team <br/>
+        - Designing a complex system to handle the number of requests over one million per day <br/>
+        - Implement the system using microservices architecture <br/>
+        - Using NodeJs, laravel, MongoDB, Postgres and Redis for whole project <br/>
+        - Collaboration in development of a secure download/upload manager for critical documents<br/>
+        `,
       from: 'Sep 2017',
-      to: 'Jan 2019'
+      to: 'Jan 2019',
+      stacks: 'PHP, Laravel, NodeJs, MongoDB, Postgres, VueJs, Redis, Git'
+
     },
     {
       title: 'Backend Developer ',
@@ -70,39 +86,64 @@ const profile = {
       url: 'http://www.app-tech.ir',
       location: 'Tehran, Iran',
       description:
-        'Backend developer',
+        `
+        - Development of international projects <br/>
+        - Develop a club management system with in-app chat system for the United States (Trainer) <br/>
+        - Implementation of a furniture transportation system in the United States (BoltMover) <br/>
+        - Collaborate in the development and implementation of car repair shop management KWTkand car accessories store system with Python <br/>
+        `,
       from: 'Jan 2019',
-      to: 'Dec 2019'
+      to: 'Dec 2019',
+      stacks: 'NodeJs, AdonisJs, Python, Django, DRF, MongoDB, Postgres, Redis,Socket Programming, Git, Docker'
+
     },
     {
       title: 'Backend and Blockchain Developer ',
       company: 'Ariatak',
-      url: 'http://areatak.com/',
+      url: 'http://areatak.com',
       location: 'Tehran, Iran',
       description:
-        'Design and implement blockchain based service for iran banking network.',
+        `
+        - Works on blockchain based service for iran banking network <br/>
+        - Collaborate with the development and implementation of the KYC (Know Your Customer) system in blockchain platform With HyperLedger<br/>
+        - Implement the system using microservices architecture <br/>
+        `,
       from: 'Dec 2019',
-      to: 'Present'
+      to: 'Present',
+      stacks: 'NodeJs, ExpressJs, KoaJs, HyperLedger Fabric, MongoDB, Postgres, Redis, Socket Programming, Git, CI/CD, Docker'
+
     },
     {
       title: 'Backend Developer ',
       company: 'Mortext',
-      url: 'https://mor-text.com/',
+      url: 'https://mor-text.com',
       location: 'Turkey, Istanbul',
       description:
-        'Backend developer on my own Startup, Design and implement backend of Mortext Application',
+        `
+        - Create own startup, backend developer of Mortext Application  <br/>
+        - development and implementation of Psychology-based dating app for unsociable people<br/>
+        - Design and implement a chat system with Node.js and PostgresDB <br/>
+        `,
       from: 'Dec 2018',
-      to: 'Dec 2019'
+      to: 'Dec 2019',
+      stacks: 'NodeJs, AdonisJs, Postgres, Redis, Socket Programming, Git, CI/CD, Docker, ElasticSearch'
+
     },
     {
       title: 'Backend Developer',
       company: 'Cosmopolis',
-      url: '',
+      url: 'https://www.cosmopolis.agency',
       location: 'Paris, France',
       description:
-        'Remote backend developer',
+        `
+        - Remote backend developer for NodeJs and Python Projects<br/>
+        - development and implementation of Navengo with NodeJs and ReactNative<br/>
+        - development and implementation of Cosmic Project and Task Manager with Python and ReactNative<br/>
+        `,
       from: 'Jan 2020',
-      to: 'Present'
+      to: 'Present',
+      stacks: 'NodeJs, AdonisJs, Python, Django, DRF, Postgres, Redis, Git, CI/CD, Docker'
+
     }
 
   ],
