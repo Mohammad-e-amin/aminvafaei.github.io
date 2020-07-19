@@ -69,7 +69,7 @@ const profile = {
       description:
         `
         - Collaboration in development and implementation of MCI value added service(VAS) system <br/>
-        - Manage5 other Backend and Frontend Developer in team <br/>
+        - Manage other Backend and Frontend Developer in team <br/>
         - Designing a complex system to handle the number of requests over one million per day <br/>
         - Implement the system using microservices architecture <br/>
         - Using NodeJs, laravel, MongoDB, Postgres and Redis for whole project <br/>
